@@ -16,3 +16,20 @@
   .items-center{
     align-items:center;
   }
+footer {
+  margin-top: 101px;
+  background-color: #000;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 0px;
+  
+}
+footer p,
+footer a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0;
+}
+footer .fa {
+  color: #83d520;
+}
