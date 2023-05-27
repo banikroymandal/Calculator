@@ -13,7 +13,7 @@ Array.from(buttons).forEach((button)=>{
 
     }
     else{
-      console.log(e.target)
+      console.log(e.target7
     string=string+e.target.innerHTML
     document.querySelector('input').value=string;
     }
